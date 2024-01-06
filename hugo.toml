@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/AlexandraOreza/ommyuc.git'
+baseURL = 'https://github.com/AlexandraOreza/ommyuc'
 languageCode = 'es'
 title = 'OMM Yucatán'
 
@@ -14,10 +14,15 @@ title = 'OMM Yucatán'
     unsafe = true
 
 [[menu.primary]]
-    name  = "Docs"
-    url = "/docs/"
-    identifier = "docs"
+    name  = "Material"
+    url = "/material/"
+    identifier = "mats"
     weight = 10
+[[menu.primary]]
+    name  = "Sobre la Olimpiada"
+    url = "/info/"
+    identifier = "info"
+    weight = 20
 
 [params.docs]
     darkMode = true
