@@ -1,6 +1,8 @@
 baseURL = 'https://github.com/AlexandraOreza/ommyuc'
-languageCode = 'es'
+languageCode = 'en-GB'
 title = 'OMM Yucatán'
+
+defaultContentLanguage = 'es'
 
 [module]
     [[module.imports]]
@@ -10,17 +12,23 @@ title = 'OMM Yucatán'
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
 
-[markup.goldmark.renderer]
-    unsafe = true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.tableOfContents]
+      endLevel = 3
+      startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [[menu.primary]]
     name  = "Material"
-    url = "/material/"
+    url = "/docs/material/"
     identifier = "mats"
     weight = 10
 [[menu.primary]]
     name  = "Sobre la Olimpiada"
-    url = "/info/"
+    url = "/docs/info/"
     identifier = "info"
     weight = 20
 

@@ -35,7 +35,7 @@ hero:
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
-    icon: book
+    icon: article
     btnText: "Materiales"
     url: "/AlexandraOreza/ommyuc/docs/material/" #eventualmente solo /material/
   cta2Button:
@@ -45,7 +45,7 @@ hero:
 
   info: "**Open Source** MIT Licensed."
 
-# Feature Grid
+# Feature Grid	<-Hay un bug con el template que no checa el enable de estas secciones
 featureGrid:
   enable: false
   weight: 20
