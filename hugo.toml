@@ -1,5 +1,5 @@
 baseURL = 'https://github.com/AlexandraOreza/ommyuc'
-languageCode = 'en-GB'
+languageCode = 'en'
 title = 'OMM Yucatán'
 
 defaultContentLanguage = 'es'
@@ -19,10 +19,13 @@ defaultContentLanguage = 'es'
       startLevel = 1
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true  
+    [markup.goldmark.extensions]
+      linkify = true
+      linkifyProtocol = 'https'
 
 [[menu.primary]]
-    name  = "Material"
+    name  = "Materiales"
     url = "/docs/material/"
     identifier = "mats"
     weight = 10
@@ -33,4 +36,6 @@ defaultContentLanguage = 'es'
     weight = 20
 
 [params.docs]
+    themeColor = 'emerald' 
+    repoURL = 'https://github.com/AlexandraOreza/ommyuc'
     darkMode = true
