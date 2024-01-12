@@ -1,7 +1,7 @@
 ---
-weight: 200
-title: "Folletos"
-description: "Folletos introductorios y avanzados a los problemas de la Olimpiada"
+weight: 400
+title: "Folletos Avanzados"
+description: ""
 icon: "article"
 date: "2024-01-01T19:22:27-06:00"
 lastmod: "2024-01-01T19:22:27-06:00"
