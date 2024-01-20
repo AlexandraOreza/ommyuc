@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on OMM Yucatán</title>
+    <link>alexandraoreza.github.io/ommyuc/docs/</link>
+    <description>Recent content in Docs on OMM Yucatán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jan 2024 18:16:24 -0600</lastBuildDate><atom:link href="alexandraoreza.github.io/ommyuc/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la Olimpiada</title>
+      <link>alexandraoreza.github.io/ommyuc/docs/info/about/</link>
+      <pubDate>Tue, 09 Jan 2024 18:16:24 -0600</pubDate>
+      
+      <guid>alexandraoreza.github.io/ommyuc/docs/info/about/</guid>
+      <description>¿Qué es la Olimpiada? linkLa Olimpiada de Matemáticas es un programa anual para promover la difusión y estudio creativo de las matemáticas mediante un concurso y sus actividades de soporte. En México es un programa de la Sociedad Matemática Mexicana (smm.org.mx) y es el concurso preuniversitario de matemáticas más importante en México.
+info Si deseas información sobre material para estudiar y prepararte, tenemos una página especial para ello. Procesos selectivos linkEl estado de Yucatán participa en 3 concursos nacionales con perfiles y requisitos distintos, por lo que en ocasiones puede haber cierta confusión respecto a las etapas y procesos de selección.</description>
+    </item>
+    
+  </channel>
+</rss>
