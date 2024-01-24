@@ -37,5 +37,5 @@ defaultContentLanguage = 'es'
 
 [params.docs]
     themeColor = 'emerald' 
-    repoURL = 'https://github.com/AlexandraOreza/ommyuc'
+    repoURL = 'alexandraoreza.github.io/ommyuc/'
     darkMode = true
