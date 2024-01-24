@@ -1,5 +1,5 @@
 {{ $file := .Get "file" | default "#" }}
 
-<a href='{{relLangURL ""}}docs/material/Revistas/pdf/{{ $file }}' download>
+<a href='{{relLangURL ""}}docs/material/{{ $file }}' download>
    {{ with .Inner }}{{ . }}{{ else }}{{ .Get "text" }}{{ end }}
 </a>
