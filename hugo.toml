@@ -31,7 +31,7 @@ defaultContentLanguage = 'es'
     weight = 10
 [[menu.primary]]
     name  = "Sobre la Olimpiada"
-    url = "/docs/info/"
+    url = "/docs/info/about/"
     identifier = "info"
     weight = 20
 
