@@ -37,11 +37,11 @@ hero:
   ctaButton:
     icon: article
     btnText: "Materiales"
-    url: "/AlexandraOreza/ommyuc/docs/material/" #eventualmente solo /material/
+    url: "/ommyuc/docs/material/"
   cta2Button:
     icon: info
     btnText: "Sobre la Olimpiada"
-    url: "/AlexandraOreza/ommyuc/docs/info"
+    url: "/ommyuc/docs/info/about/"
 
   info: "**Open Source** MIT Licensed."
 
